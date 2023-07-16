@@ -11,4 +11,6 @@ docker-compose up
 
 ```
 
-For detailed explanation on how things work, checkout soon to come blog post.
+For detailed explanation on how things work, checkout the blog post 
+https://www.cloudbees.com/blog/using-apache-kafka-for-asynchronous-communication-in-microservices
+
